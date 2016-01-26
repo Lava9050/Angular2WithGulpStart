@@ -1,0 +1,23 @@
+{
+  "name": "angular-2-learning",
+  "version": "0.0.0",
+  "scripts": {
+    "build": "gulp",
+    "start": "gulp dev"
+  },
+  "dependencies": {
+    "angular2": "2.0.0-alpha.46",
+    "reflect-metadata": "0.1.1",
+    "systemjs": "0.18.17",
+    "traceur": "0.0.92"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.11.1",
+    "gulp": "^3.9.0",
+    "gulp-rename": "1.2.2",
+    "gulp-traceur": "0.17.1",
+    "gulp-webserver": "0.9.1",
+    "gulp-typescript": "2.10.0",
+    "gulp-jasmine": "2.2.1"
+  }
+}
